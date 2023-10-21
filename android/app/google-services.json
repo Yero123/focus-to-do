@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "80742676487",
+    "project_id": "focus-to-do-8e9e4",
+    "storage_bucket": "focus-to-do-8e9e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80742676487:android:7f33858040e507113192a2",
+        "android_client_info": {
+          "package_name": "com.example.focus_to_do"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgreFDxGNja2-6Xtlvu18qF72vceDxeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
